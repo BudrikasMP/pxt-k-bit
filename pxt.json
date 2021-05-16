@@ -1,5 +1,5 @@
 {
-    "name": "pxt-k-bit",
+    "name": "pxt-k-bit-ru",
     "version": "0.0.0",
     "description": "keyestudio k-bit car for microbit",
     "dependencies": {
@@ -9,7 +9,9 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "_locale/ru/pxt-k-bit-strings.json",
+        "_locale/ru/pxt-k-bit-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
