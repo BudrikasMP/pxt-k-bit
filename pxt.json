@@ -1,5 +1,5 @@
 {
-    "name": "pxt-k-bit-ru",
+    "name": "pxt-k-bit-ru-test",
     "version": "0.0.0",
     "description": "keyestudio k-bit car for microbit",
     "dependencies": {
