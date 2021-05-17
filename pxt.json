@@ -10,8 +10,8 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locale/ru/pxt-k-bit-strings.json",
-        "_locale/ru/pxt-k-bit-jsdoc-strings.json"
+        "_locales/ru/pxt-k-bit-strings.json",
+        "_locales/ru/pxt-k-bit-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
