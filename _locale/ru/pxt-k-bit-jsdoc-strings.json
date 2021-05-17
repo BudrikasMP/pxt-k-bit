@@ -1,0 +1,13 @@
+{
+  "COLOR": "use for RGB-LED",
+  "DIR": "use for control motor",
+  "MotorObs": "use for motor and infrared obstacle sensor",
+  "k_Bit.Led": "set the rgb-led color via the color card",
+  "k_Bit.Motor": "set speed of motor",
+  "k_Bit.MotorSta": "set motor state",
+  "k_Bit.OFFLed": "turn off all rgb-led",
+  "k_Bit.PH": "photoresistance sensor",
+  "k_Bit.SetLed": "set the rgb-led color via data",
+  "k_Bit.carStop": "set cat state",
+  "k_Bit.run": "car run diretion"
+}
